@@ -1,3 +1,5 @@
+项目网页：https://student-manager-pro.nocode.host/
+
 # 环境安装指南
 ## NVM 安装
 ``` 
